@@ -1,1 +1,1 @@
-Repo for everything related to the brain tumor classification web application
+Models for the brain tumor web application
