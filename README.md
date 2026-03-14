@@ -65,7 +65,7 @@ results, and clinical context.
 
 ## Related Repository
 
-🔗 [Brain Tumor Classification Web App](https://github.com/your-username/brain-tumor-app)
+🔗 [Brain Tumor Classification Web App](https://github.com/th1rteen0/brain-tumor-classification-application)
 
 ---
 
